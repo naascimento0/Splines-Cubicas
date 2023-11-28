@@ -7,5 +7,4 @@ void destroiMatrizDiferencaDividida(double **diferencaDividida, int n);
 
 double* criaVetorDiferencaDividida(int n, double *x, double *y);
 
-
 #endif
